@@ -35,7 +35,7 @@ Hanting Suo*, Haonan Yan*, Liang Wang, and Aiguo Song. **Stop to Decide: Latency
 
 ## Award
 
-**National Second Prize**, 11th National College Student Biomedical Engineering Innovation Design Competition, 2026. Project: **EEG Emotion Recognition (脑电感知)**. Sole student participant and project lead.
+**National Second Prize**, 11th National College Student Biomedical Engineering Innovation Design Competition, 2026. Project: **Cross-Subject EEG Emotion Recognition (脑感知情)**. Sole student participant and project lead.
 
 ## Patent application
 
