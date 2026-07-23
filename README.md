@@ -17,6 +17,12 @@ Team lead; responsible for system integration, mission-state-machine development
 - Code: [quadruped-inspection-stack](https://github.com/hantingsuo/quadruped-inspection-stack)
 - Paper: [arXiv:2607.11204](https://arxiv.org/abs/2607.11204)
 
+### Cross-Subject EEG Emotion Recognition
+
+Sole student participant and project lead. National Second Prize in the 11th National College Student Biomedical Engineering Innovation Design Competition (2026). Developed the preprocessing, feature-engineering, subject-independent evaluation, fusion, and inference pipeline; official private-test accuracy: 80%.
+
+- Code: [cross-subject-eeg-emotion-recognition](https://github.com/hantingsuo/cross-subject-eeg-emotion-recognition)
+
 ### Protocol-Aware EEG Generalization Research
 
 Project lead for an ongoing study of protocol-sensitive EEG evaluation. The manuscript is in preparation; no author order or state-of-the-art claim is made at this stage.
@@ -26,6 +32,10 @@ Project lead for an ongoing study of protocol-sensitive EEG evaluation. The manu
 ## Publication
 
 Hanting Suo*, Haonan Yan*, Liang Wang, and Aiguo Song. **Stop to Decide: Latency-Aware Proprioceptive Navigation Primitives for Mapping-Free Quadruped Inspection.** arXiv, 2026. *Equal contribution; submitted to Intelligent Service Robotics.*
+
+## Award
+
+**National Second Prize**, 11th National College Student Biomedical Engineering Innovation Design Competition, 2026. Project: **EEG Emotion Recognition (脑电感知)**. Sole student participant and project lead.
 
 ## Patent application
 
