@@ -14,7 +14,7 @@ Undergraduate researcher at Southeast University working on reliable autonomous 
 
 Team lead; responsible for system integration, mission-state-machine development, onboard deployment, stair and corridor experiments, and failure analysis.
 
-- Code: [quadruped-inspection-stack](https://github.com/hantingsuo/quadruped-inspection-stack)
+- Code release: pending third-party dependency and redistribution review.
 - Paper: [arXiv:2607.11204](https://arxiv.org/abs/2607.11204)
 
 ### Cross-Subject EEG Emotion Recognition
@@ -27,7 +27,7 @@ Sole student participant and project lead. National Second Prize in the 11th Nat
 
 Project lead for an ongoing study of protocol-sensitive EEG evaluation. The manuscript is in preparation; no author order or state-of-the-art claim is made at this stage.
 
-- Code: [eeg-generalization-research](https://github.com/hantingsuo/eeg-generalization-research)
+- Repository: private during manuscript preparation.
 
 ## Publication
 
